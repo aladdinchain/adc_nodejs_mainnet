@@ -1,4 +1,4 @@
-# adc_nodejs_testnet
+# adc_nodejs_mainnet
 
 npm install
 
